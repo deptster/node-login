@@ -1,0 +1,42 @@
+[
+    {
+        "firstname": "Ajeet",
+        "email": "ajeetkumar@gmail.com",
+        "lastname": "Kumar",
+        "password": "123",
+        "dob": "19/09/1999",
+        "Mobile_no": "9999999999"
+    },
+    {
+        "firstname": "Amit",
+        "email": "amit@gmail.com",
+        "lastname": "singh",
+        "password": "345",
+        "dob": "28/04/2000",
+        "Mobile_no": "8888888888"
+    },
+    {
+        "firstname": "Ajay",
+        "email": "ajay@gmail.com",
+        "lastname": "malik",
+        "password": "328",
+        "dob": "10/10/1988",
+        "Mobile_no": "7777777777"
+    },
+    {
+        "firstname": "raju",
+        "email": "rakj@gmail.com",
+        "lastname": "kumar",
+        "password": "386adas@#$",
+        "dob": "01/08/1978",
+        "Mobile_no": "6666666666"
+    },
+    {
+        "firstname": "test",
+        "email": "test@gmail.com",
+        "lastname": "testl",
+        "password": "test",
+        "dob": "25/06/2004",
+        "Mobile_no": "5555555555"
+    }
+]
